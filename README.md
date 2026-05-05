@@ -13,12 +13,3 @@ A GUI-based application that converts Python errors into simple explanations wit
 - Error tracking system
 - Interactive GUI using Tkinter
 
-## 🖥️ Demo
-(Add screenshot here)
-
-## ▶️ How to Run
-python python_error_explainer.py
-
-## 🛠️ Tech Stack
-- Python
-- Tkinter
